@@ -1,4 +1,4 @@
-module github.com/brihadeesh/brihadeesh.github.io
+module github.com/reveristdarkmoth/reveristdarkmoth.github.io
 
 go 1.24.4
 

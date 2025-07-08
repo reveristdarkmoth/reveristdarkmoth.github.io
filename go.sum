@@ -1,14 +1,2 @@
-github.com/brihadeesh/hugo-tufte v0.0.0-20250707100220-9262e2fbf12f h1:cajJj3ANN5bYAZrm+PlsQSLOj+04/enqcriPJWs/X1g=
-github.com/brihadeesh/hugo-tufte v0.0.0-20250707100220-9262e2fbf12f/go.mod h1:GYpXrHRRhIV2pMJDPorSPJ73R6HpYAsZqQOnydASdCY=
-github.com/brihadeesh/hugo-tufte v0.0.0-20250707120938-836cc6295d55 h1:8aMBpw33SIHBS9UKG34Xn0BG/4jwEMuTxWk7o86DSwE=
-github.com/brihadeesh/hugo-tufte v0.0.0-20250707120938-836cc6295d55/go.mod h1:GYpXrHRRhIV2pMJDPorSPJ73R6HpYAsZqQOnydASdCY=
-github.com/brihadeesh/hugo-tufte v0.0.0-20250707121513-2207b4ff5084 h1:Vs4oxFIdMGCT3lS2lARVEES8UF+lOWcY9+WunBhkhrA=
-github.com/brihadeesh/hugo-tufte v0.0.0-20250707121513-2207b4ff5084/go.mod h1:GYpXrHRRhIV2pMJDPorSPJ73R6HpYAsZqQOnydASdCY=
-github.com/brihadeesh/hugo-tufte v0.0.0-20250707122056-1e2ea56a00c3 h1:4ppoxSjOazy0G8mzNBzwc1JUdjr87XAFwIxEpYKepXs=
-github.com/brihadeesh/hugo-tufte v0.0.0-20250707122056-1e2ea56a00c3/go.mod h1:GYpXrHRRhIV2pMJDPorSPJ73R6HpYAsZqQOnydASdCY=
-github.com/brihadeesh/hugo-tufte v0.0.0-20250707130327-9213a855d280 h1:bJyPEWFPcmHMuY1feZXhzYEaQO/D2JQu7lwZi141TJg=
-github.com/brihadeesh/hugo-tufte v0.0.0-20250707130327-9213a855d280/go.mod h1:GYpXrHRRhIV2pMJDPorSPJ73R6HpYAsZqQOnydASdCY=
-github.com/brihadeesh/hugo-tufte v0.0.0-20250707130611-3e9e56f91b80 h1:Giq73h/dS9ad/brCyFjOfsSuNF9HzQcPFwYAQKUn6mc=
-github.com/brihadeesh/hugo-tufte v0.0.0-20250707130611-3e9e56f91b80/go.mod h1:GYpXrHRRhIV2pMJDPorSPJ73R6HpYAsZqQOnydASdCY=
 github.com/brihadeesh/hugo-tufte v0.0.0-20250708070907-55658fa09bee h1:DFHLoqjkX9jKkDU+/R+Eyo9/IIKqihdlrbjE9FtLsPk=
 github.com/brihadeesh/hugo-tufte v0.0.0-20250708070907-55658fa09bee/go.mod h1:GYpXrHRRhIV2pMJDPorSPJ73R6HpYAsZqQOnydASdCY=
