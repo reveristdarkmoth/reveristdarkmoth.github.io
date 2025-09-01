@@ -1,5 +1,5 @@
 +++
-date = “01-09-2025T15:11:38+05:30"
+date = “2025-09-01T15:11:38+05:30"
 draft = false
 title = "On watching Chungking Express: Understanding the Melody of Eyes"
 section = "posts"
