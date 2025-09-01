@@ -1,9 +1,9 @@
 +++
-date = "{{ .Date }}"
+date = '{{ .Date }}'
 draft = true
-title = "{{ replace .File.ContentBaseName "-" " " | title }}"
-section = "posts"
+title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+section = 'posts'
 
-author = "reverist dark moth"
-description = ""
+author = 'reverist dark moth'
+description = ''
 +++
