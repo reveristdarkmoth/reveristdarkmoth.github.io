@@ -1,11 +1,11 @@
 +++
-date = “2025-09-01T15:11:38+05:30"
+date = '2025-09-01T15:11:38+05:30'
 draft = false
-title = "On watching Chungking Express: Understanding the Melody of Eyes"
-section = "posts"
+title = 'On watching Chungking Express: Understanding the Melody of Eyes'
+section = 'posts'
 
-author = "reverist dark moth"
-description = “Sunday ritual of watching a movie"
+author = 'reverist dark moth'
+description = 'Sunday ritual of watching a movie'
 +++
 
 Well, I just want to throw my hands in the air and dance to “California Dreamin” like Faye, too. The swaying of her hands and hips makes this cult classic so impressionable. The critics think the director Wong is a genius, and maybe he is. This movie does seem like an ode to the monotony and cruelty of city life; cramped spaces, narrow lanes with kittens, and relentless killings. The surroundings are unforgiving and rather tasteless. However, unlike its wikipedia synopsis, I do not think Zhiwu (Takeshi Kanashiro) is a police man, he is rather a poet – A romantic poet, heartbroken and yearning, searching for a cure for his broken heart, he says these profound, poignant lines where even the passwords he set to important portals are romantic; the canned sardines and pineapples somehow become a testament to his heartbreak. He is all of us when he hopes for a reconciliation because “love expires in a month”, holding onto that last shred of hope, making sense of senseless things. There is a character he meets after vowing to fall in love with the first woman who walks through the door of the bar he is drinking at; she walks in, a drug dealer who shoots people when things go wrong, who wears a blonde wig, red lipstick and has a rather philosophical take on always wearing a raincoat. Do they fall in love? We do not know. But they do share interesting thoughts on people and pineapples, before she sleeps in his bed and he orders four chef’s salads. I love the way Takeshi looks here; dreamy, ethereal, and magical, a guy you would want to encounter in a shabby bar and fall in love with. His beauty stands out the most in red light, and his smile could kill (literally). But we are reluctantly forced to move on to a different story. It's Zhiwu’s eyes that convey so much more: his innocence, his desire for love, his helplessness, his refusal to let go. He is like a deer stuck at headlights. His doe eyes are scared and so full of love.
