@@ -25,7 +25,7 @@ pagerSize = 100
 
 [params]
   # Subtitle of the website
-  subtitle = "Subtitle for your site"
+  subtitle = "Mad heart, Be brave"
   favicon = "/favicon.ico"
   touchicon = "/apple-touch-icon.png"
 
